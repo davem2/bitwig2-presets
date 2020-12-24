@@ -1,6 +1,6 @@
 # Bitwig 2 presets
 
-Presets I've created for Bitwig Studio 2.0
+Presets I've created for Bitwig Studio 2.1
 
 ## Highlights
 
